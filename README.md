@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Olga
+
+Software Engineer with 3 years of commertial experience. I have knowledge in backend development on Java.
+In general worked with client-server architecture.
+
+  
+## 🛠 Technical Stack
+*   Java
+*   PostgreSQL
+*   Selenide, Selenoid
+*   Gradle, Maven
+*   Jenkins
+*   jUnit
+*   Cucumber
+*   GitHub
+
+  📫  How to reach me: <a href='mailto:oklonina@gmail.com'>oklonina@gmail.com</a>
 
 <!--
 **Syrlic/syrlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
