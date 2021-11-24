@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Olga
 
-Software Engineer with 3 years of commertial experience. I have knowledge in backend development on Java.
+Software QA Engineer with 3 years of commertial experience. I have knowledge in backend development on Java.
 In general worked with client-server architecture.
 
   
