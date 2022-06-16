@@ -6,11 +6,13 @@ In general worked with client-server architecture.
   
 ## 🛠 Technical Stack
 *   Java
+*   Selenium
 *   PostgreSQL
 *   Selenide, Selenoid
 *   Gradle, Maven
 *   Jenkins
 *   jUnit
+*   RestAssured
 *   Cucumber
 *   GitHub
 
